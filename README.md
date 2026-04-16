@@ -14,3 +14,4 @@ Browse Restaurants Feature
 - KFC
   Deployment and DevOps
 Order Processing
+Restaurant Browsing
