@@ -1,2 +1,2 @@
 # devops-project
-Team DevOps Assignment
+Made changes in registration page
